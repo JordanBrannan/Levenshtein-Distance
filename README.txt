@@ -1,4 +1,1 @@
-Within the LevenshteinSpellCheck class, the input.txt, dictionary.txt and output.txt
-need to be updated with the location that these are stored.
-
-- Jordan
+This program demonstrates an implementation of the Levenshtein Distance algorithm and has been used to create a spell checker.
